@@ -33,8 +33,7 @@ Project is live at: [Social Wave](https://social-wave-frontend.vercel.app/)
     - [Paginating Through Posts](#paginating-through-posts)
 9. [Contribution](#contribution)
 
-<a href="introduction" />
-## 1. Introduction
+# 1. Introduction
 
 ### Technologies Used
 The following technologies and libraries were used in the frontend development of "Social Waves":
@@ -49,7 +48,7 @@ Before you begin working with the "Social Waves" frontend application, ensure th
 
 - **Node.js and npm**: You'll need Node.js, which includes npm, to run the application and its development tools. You can download and install Node.js from the official website: [Node.js](https://nodejs.org/).
 
-## 2. Getting Started
+# 2. Getting Started
 
 #### Cloning the Repository
 To get started, clone the GitHub repository for "Social Waves" frontend:
@@ -82,7 +81,7 @@ This will launch the application locally, typically at `http://localhost:3000/`.
 #### Environment Variables
 Some parts of the application may require environment variables for configuration. Create a `.env` file in the project root and define the necessary variables, referencing the `.env.example` file for guidance.
 
-## 3. Project Structure
+# 3. Project Structure
 
 ### Folder Structure
 The project follows a standard folder structure:
@@ -223,12 +222,12 @@ In "Social Waves," users can interact with posts by liking them and leaving comm
 6. **Reset Filters**: Users can usually reset filters by deselecting tags or clicking a "x" on tags option.
 
 
-# 6. Recommended Posts
+# 7. Recommended Posts
 
 Users can see the recommended posts based on the similar tags the other users used.
 
 
-# 7. Pagination
+# 8. Pagination
 
 Pagination is a crucial feature in "Social Waves" that allows users to browse through posts efficiently. This section explains how pagination is implemented in the application.
 
@@ -266,7 +265,7 @@ Efficiency in pagination is vital for the application's performance. The backend
 
 Certainly! Here's the content for the "Contributing" section of your documentation:
 
-# 15. Contributing
+# 9. Contributing
 
 "Social Waves" welcomes contributions from the community to help improve and enhance the application. We value your input and assistance in making this project better. This section explains how you can contribute to the project.
 
