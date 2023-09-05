@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://social-wave-backend-delta.vercel.app/'});
+const API = axios.create({ baseURL: 'https://social-wave-backend-production.up.railway.app/'});
 
 API.interceptors.request.use((req) => {
     if(localStorage.getItem('token')){
