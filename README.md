@@ -33,6 +33,7 @@ Project is live at: [Social Wave](https://social-wave-frontend.vercel.app/)
     - [Paginating Through Posts](#paginating-through-posts)
 9. [Contribution](#contribution)
 
+<a href="introduction" />
 ## 1. Introduction
 
 ### Technologies Used
