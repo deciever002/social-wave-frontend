@@ -3,6 +3,8 @@
 ### Overview
 "Social Waves" is a full-stack social media application that enables users to share photos, like, comment on posts, search for content, and connect with others. This documentation focuses on the frontend part of the application, which is built using React, Material UI, Redux, and other modern libraries.
 
+Backend Repo: https://github.com/deciever002/social-wave-backend
+
 Project is live at: [Social Wave](https://social-wave-frontend.vercel.app/)
 
 <img width="1440" alt="Screenshot 2023-09-05 at 3 43 38 PM" src="https://github.com/deciever002/social-wave-frontend/assets/112121338/4bf144e6-9548-4395-98d4-12add7915964">
